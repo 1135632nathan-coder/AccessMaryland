@@ -1,0 +1,4 @@
+Nathan Green
+Functional Requirement: The system shall restrict user access to specific university resources based strictly on the user's assigned role and permissions.
+Nonfunctional Requirement: The system shall encrypt all user credentials and session tokens in transit and at rest using industry-standard protocols.
+Proposed IAM Feature: Multi-factor authentication (MFA) support using hardware security keys or authenticator apps for elevated administrative accounts.
